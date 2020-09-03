@@ -13,6 +13,28 @@
     </image>
     
     <item>
+      <title>Computer Architecture</title>
+      <link>/material/computerarchitecture/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/material/computerarchitecture/</guid>
+      <description>&lt;p&gt;Here you can find slides for our lecture &amp;ldquo;Computer Architecture&amp;rdquo;. It is tailored
+for CS students in their second year, but are generally useful.&lt;/p&gt;
+&lt;h1 id=&#34;spring-2020&#34;&gt;Spring 2020&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2 - Basics&lt;/strong&gt; 
+&lt;a href=&#34;/slides/ca_2020_02_basics.pdf&#34;&gt;📖 slides&lt;/a&gt; 
+&lt;a href=&#34;/slides/ca_2020_02_basics-animated.pdf&#34;&gt;🎞️ animated slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;3 - Pipelining&lt;/strong&gt; 
+&lt;a href=&#34;/slides/ca_2020_03_pipelining.pdf&#34;&gt;📖 slides&lt;/a&gt; 
+&lt;a href=&#34;/slides/ca_2020_03_pipelining-animated.pdf&#34;&gt;🎞️ animated slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;4 - Complex Pipelining&lt;/strong&gt; 
+&lt;a href=&#34;/slides/ca_2020_04_complexpipelining.pdf&#34;&gt;📖 slides&lt;/a&gt; 
+&lt;a href=&#34;/slides/ca_2020_04_complexpipelining-animated.pdf&#34;&gt;🎞️ animated slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>VS Code Simulator Plugin</title>
       <link>/project/vscode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
