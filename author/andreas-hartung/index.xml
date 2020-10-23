@@ -5,10 +5,6 @@
     <link>/author/andreas-hartung/</link>
     <description>Recent content in Andreas Hartung on RISC-V @ HM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/author/andreas-hartung/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/author/andreas-hartung/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -5,10 +5,6 @@
     <link>/author/martin-orehek/</link>
     <description>Recent content in Martin Orehek on RISC-V @ HM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/author/martin-orehek/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/author/martin-orehek/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

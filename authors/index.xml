@@ -5,11 +5,7 @@
     <link>/authors/</link>
     <description>Recent content in Authors on RISC-V @ HM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andreas Hartung</title>
       <link>/author/andreas-hartung/</link>

@@ -5,10 +5,6 @@
     <link>/author/benjamin-bratulescu/</link>
     <description>Recent content in Benjamin Bratulescu on RISC-V @ HM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="/author/benjamin-bratulescu/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="/author/benjamin-bratulescu/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
