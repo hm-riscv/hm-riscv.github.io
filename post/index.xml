@@ -1,37 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on RISC-V @ HM</title>
+    <title>Posts | RISC-V @ HM</title>
     <link>/post/</link>
-    <description>Recent content in Posts on RISC-V @ HM</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
     <item>
       <title>VS Code Venus RISC-V extension 1.0.0 released</title>
       <link>/post/20200902-vscoderelease/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>/post/20200902-vscoderelease/</guid>
-      <description>We have released the first public stable version of our VS Code extension that is based on the RISC-V extension. You only need this extension and no further tools to get started with learning RISC-V assembly.</description>
+      <description>&lt;p&gt;We have released the first public stable version of our VS Code extension that
+is based on the RISC-V extension. You only need this extension and no further
+tools to get started with learning RISC-V assembly. You can find the extension
+on the &lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=hm.riscv-venus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VS Code
+marketplace&lt;/a&gt;,
+in VS Code directly or on
+&lt;a href=&#34;https://github.com/hm-riscv/vscode-riscv-venus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Munich Meetup Presentation</title>
       <link>/post/20200410-meetup/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>/post/20200410-meetup/</guid>
-      <description>The first RISC-V Munich meetup has been co-organized at Munich University of Applied Sciences. The second edition was organized as a virtual event and Stefan Wallentowitz presented recent updates of our RISC-V curriculum integration.</description>
+      <description>&lt;p&gt;The first RISC-V Munich meetup has been co-organized at Munich University of
+Applied Sciences. The second edition was organized as a virtual event and Stefan
+Wallentowitz presented recent updates of our RISC-V curriculum integration.&lt;/p&gt;
+&lt;p&gt;You can find the recording of the presentation on Youtube:&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/srG3gbql_KQ&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
     </item>
     
     <item>
       <title>RISC-V Summit Presentation</title>
       <link>/post/20200116-summit/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>/post/20200116-summit/</guid>
-      <description>Stefan Wallentowitz took the stage at the RISC-V Summit in December 2019 in San Jose. He has presented our ongoing work on integrating RISC-V into our curriculum. You can find the presentation on Youtube:</description>
+      <description>&lt;p&gt;Stefan Wallentowitz took the stage at the RISC-V Summit in December 2019 in San
+Jose. He has presented our ongoing work on integrating RISC-V into our
+curriculum. You can find the presentation on Youtube:&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/H9ArK-iHdZI&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
     </item>
     
   </channel>

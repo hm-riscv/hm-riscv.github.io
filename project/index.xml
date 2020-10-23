@@ -1,34 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on RISC-V @ HM</title>
+    <title>Projects | RISC-V @ HM</title>
     <link>/project/</link>
-    <description>Recent content in Projects on RISC-V @ HM</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
     <item>
       <title>VS Code Simulator Plugin</title>
       <link>/project/vscode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/project/vscode/</guid>
-      <description>In our basic education in computer organization and computer architecture we use the RISC-V instruction set architecture to teach the fundamentals of machine programming. We want to make it as accessible as possible for our students to use a programming environment, without fiddling with cross-compilers.</description>
+      <description>&lt;p&gt;In our basic education in computer organization and computer architecture we use
+the RISC-V instruction set architecture to teach the fundamentals of machine
+programming. We want to make it as accessible as possible for our students to
+use a programming environment, without fiddling with cross-compilers. The &lt;a href=&#34;https://venus.cs61c.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Venus
+simulator&lt;/a&gt; is a nice browser-based simulator that we
+have used a lot. But we wanted to provide it in an established IDE running
+locally on the students computers and thereby decided to integrate the Venus
+simulator into Visual Studio Code, as a standalone extension.&lt;/p&gt;
+&lt;p&gt;You can find the extension on the &lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=hm.riscv-venus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VS Code
+marketplace&lt;/a&gt;,
+in VS Code directly or on
+&lt;a href=&#34;https://github.com/hm-riscv/vscode-riscv-venus&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Micro-architecture Traces</title>
       <link>/project/microarchtrace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/project/microarchtrace/</guid>
-      <description>Teaching computer architecture requires accurate models to understand the effects of techniques to accelerate instruction processing. While there are many RISC-V open source processor cores that can be simulated, their usage is not very accessible to many students.</description>
+      <description>&lt;p&gt;Teaching computer architecture requires accurate models to understand the
+effects of techniques to accelerate instruction processing. While there are many
+RISC-V open source processor cores that can be simulated, their usage is not
+very accessible to many students.&lt;/p&gt;
+&lt;p&gt;To avoid looking through endless VCD files (signal traces) we are working on a
+framework for micro-architectural tracing. The framework abstracts from
+electrical signals and instead traces the events of the processor&amp;rsquo;s
+microarchitecture. You can find the project on
+&lt;a href=&#34;https://github.com/hm-riscv/microarchtrace&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The micro-architecture traces can be processed an visualized by
+&lt;a href=&#34;https://pypi.org/project/pipelineviewer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pipeline-viewer&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>OpenTitan Side Channel Attacks</title>
       <link>/project/opentitan-sca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/project/opentitan-sca/</guid>
       <description></description>
     </item>
@@ -37,7 +63,6 @@
       <title>RISC-V CPU Verification with Python</title>
       <link>/project/cocotb-riscv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/project/cocotb-riscv/</guid>
       <description></description>
     </item>
